@@ -1,2 +1,8 @@
+remote_theme: hydecorp/hydejack
+url: https://heyasher.github.io
 title: hey asher
 description: Asher Lewis
+author: 
+  name: Asher Lewis
+  social:
+    twitter: asherlewis
