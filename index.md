@@ -1,3 +1,6 @@
+---
+cover: true
+---
 # Hey Asher!
 
 # strategist & maker
