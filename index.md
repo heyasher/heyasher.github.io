@@ -1,5 +1,4 @@
 ---
-cover: true
 title: Hey Asher!
 ---
 # strategist & maker
