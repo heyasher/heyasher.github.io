@@ -1,24 +1,24 @@
 # strategist & maker
 # 210.896.2898
 
-## [Silver Glade](https://www.sglade.com)
-consultant.
+## consultant.
+[Silver Glade](https://www.sglade.com)
 *Software consulting & development*
 
-## [Group Labs](https://www.grouplabs.com)
-strategist.
+## strategist.
+[Group Labs](https://www.grouplabs.com)
 *Online learning & training products*
 
-## [Hub & Spoke](https://www.gohubandspoke.com)
-entrepreneur.
+## entrepreneur.
+[Hub & Spoke](https://www.gohubandspoke.com)
 *Exclusive European travel experiences*
 
-## [Ten33 House](https://www.ten33house.com)
-proprietor.
+## proprietor.
+[Ten33 House](https://www.ten33house.com)
 *Premium vacation rental in Abilene Texas*
 
-collector.
+## collector.
 *Purveyor of fine watches & bourbon*
 
-homeschool dad.
+## homeschool dad.
 *Educating our kids unconventionally*
