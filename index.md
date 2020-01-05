@@ -2,17 +2,26 @@
 title: Hey Asher!
 ---
 # strategist & maker
+# 210.896.2898
 
-### [Silver Glade](https://sglade.com)  
-**Launch Your Idea. Shape the Future.**  
-*Custom software strategy, consulting & development.*
-### [Group Labs](https://grouplabs.com)  
-**Online Learning Products for Corporate Speakers**  
-*Turn speaking engagements into 10x follow-on business.*
+## [Silver Glade](https://www.sglade.com)  
+consultant.
+*Software consulting & development*
 <hr>
-### [Hub & Spoke](https://gohubandspoke.com)  
-**Exclusive European Small Group Travel Experiences.**  
-*An unforgettable, immersive experience through the heart of Italy.*
-### [Ten33 House](https://ten33house.com)  
-**Authentic Texas Vacation Rental in Abilene.**  
-*Kick off your boots and stay in our restored 1920’s home.*
+## [Group Labs](https://www.grouplabs.com)  
+strategist.
+*Online learning & training products*
+<hr>
+## [Hub & Spoke](https://www.gohubandspoke.com)  
+entrepreneur.
+*Exclusive European travel experiences*
+<hr>
+## [Ten33 House](https://www.ten33house.com)
+proprietor.
+*Premium vacation rental in Abilene Texas* 
+<hr>
+collector.
+*Purveyor of fine watches & bourbon*
+<hr>
+homeschool dad.
+*Educating our kids unconventionally*
