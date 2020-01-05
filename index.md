@@ -1,4 +1,4 @@
-# strategist & maker
+# entrepreneur. collector. homeschool dad.
 # 210.896.2898
 
 ## consultant.
