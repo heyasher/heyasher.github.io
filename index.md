@@ -1,9 +1,9 @@
 # strategist & maker
 # 210.896.2898
 
-[Silver Glade](https://www.sglade.com) | consultant.
--------------------------------------- | -----------
-Software consulting & development | 
+## [Silver Glade](https://www.sglade.com)
+consultant.
+*Software consulting & development*
 
 ## [Group Labs](https://www.grouplabs.com)
 strategist.
